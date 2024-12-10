@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098903244121",
+    "project_id": "sha-mobiles",
+    "storage_bucket": "sha-mobiles.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098903244121:android:24637cfbc200f193fe1048",
+        "android_client_info": {
+          "package_name": "com.example.shamobiles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxyaZsxk1dW6-V8iSEp4qxfDHqsegfhP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
